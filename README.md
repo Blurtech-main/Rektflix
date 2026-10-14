@@ -1,6 +1,6 @@
 # 🎬 Rektflix
 
-<img src="https://github.com/Blurtech-main/Rektflix/blob/main/0fd7f93c-d347-49e8-8ee1-b6b9bd1ee455.pngt?raw=true" alt="Rektflix Logo" width="500">
+<img src="./0fd7f93c-d347-49e8-8ee1-b6b9bd1ee455.png" alt="Rektflix Logo" width="500">
 
 **Clip the chaos. Keep the kill-log. Reclaim your disk space.** 🎮💾
 
