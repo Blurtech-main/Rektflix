@@ -1,6 +1,8 @@
 # 🎬 Rektflix
 
-<img src="./0fd7f93c-d347-49e8-8ee1-b6b9bd1ee455.png" alt="Rektflix Logo" width="500">
+<p align="center">
+  <img src="./0fd7f93c-d347-49e8-8ee1-b6b9bd1ee455.png" alt="Rektflix Logo" width="500">
+</p>
 
 **Clip the chaos. Keep the kill-log. Reclaim your disk space.** 🎮💾
 
