@@ -1,6 +1,6 @@
 # 🎬 Rektflix
 
-**'n kill(log). Clip the chaos. Keep the receipts. Reclaim your disk space.** 🎮💾
+**Clip the chaos. Keep the kill-log. Reclaim your disk space.** 🎮💾
 
 Rektflix is a self-contained **Windows recorder and World of Warcraft Classic addon**. It continuously records the selected WoW window into a rolling buffer, so you can save recent gameplay or automatically capture selected events **without OBS**. That ridiculous moment from three minutes ago? It doesn't have to live only in your memory. 💀
 
