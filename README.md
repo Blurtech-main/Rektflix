@@ -6,7 +6,7 @@
 
 **Clip the chaos. Keep the kill-log. Reclaim your disk space.** 🎮💾
 
-Rektflix is a self-contained **Windows recorder and World of Warcraft Classic (and Forever Beta) addon**. It continuously records the selected WoW window into a rolling buffer, so you can save recent gameplay or automatically capture selected events **without OBS**. That ridiculous moment from three minutes ago? It doesn't have to live only in your memory. 💀
+Rektflix is a self-contained **Windows recorder and World of Warcraft Classic / Forever Beta addon**. It continuously records the selected WoW window into a rolling buffer, so you can save recent gameplay or automatically capture selected events **without OBS**. That ridiculous moment from three minutes ago? It doesn't have to live only in your memory. 💀
 
 And it's not just a recorder: **Disk Space Clearer** is a substantial, built-in file-management feature for finding what's eating your storage and carefully moving it somewhere with more room. 🧹
 
