@@ -11,7 +11,7 @@ Rektflix is a self-contained **Windows recorder and World of Warcraft Classic ad
 And it's not just a recorder: **Disk Space Clearer** is a substantial, built-in file-management feature for finding what's eating your storage and carefully moving it somewhere with more room. 🧹
 
 > [!NOTE]
-> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested on WoW**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement. **Please leave a comment (under Issues) if you notice any bugs or have any feature requests.**
+> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested on WoW**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement. Feel free to leave a comment (under Issues) if you notice any bugs or have any feature requests.
 
 ## 🚀 Getting started
 
@@ -47,7 +47,7 @@ The optional **Disk Space Clearer** helps you figure out *where your storage wen
 
 ### 🔍 Find the real space hogs
 
-- **Scan a drive you choose** and see the largest results grouped into understandable **collections**.
+- **Scan a drive you choose** and see the largest results grouped into understandable, natural language **collections**.
 - **Nested subfolders** contribute to their **nearest qualifying collection**, making the results easier to understand.
 - **No double-counting:** the same file is never listed twice.
 - **Expand a collection** to inspect up to **100 files** before deciding what to do.
@@ -56,7 +56,7 @@ The optional **Disk Space Clearer** helps you figure out *where your storage wen
 
 - Pick **individual large files** or move **an entire folder**.
 - **Programs and installers stay grouped** with related folder files to reduce the risk of separating dependencies.
-- Before anything moves, Rektflix previews the **destination**, **required destination capacity**, and **expected space recovered**. No surprise storage gymnastics. 🤹
+- Before anything moves, Rektflix previews the **destination**, **required destination capacity**, and **expected space recovered**. 🤹
 
 ### 🛡️ Carefully verified moves, not YOLO file transfers
 
