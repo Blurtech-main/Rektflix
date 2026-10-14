@@ -10,9 +10,6 @@ Rektflix is a self-contained **Windows recorder and World of Warcraft Classic ad
 
 And it's not just a recorder: **Disk Space Clearer** is a substantial, built-in file-management feature for finding what's eating your storage and carefully moving it somewhere with more room. 🧹
 
-> [!NOTE]
-> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested on WoW**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement. Feel free to leave a comment (under Issues) if you notice any bugs or have any feature requests.
-
 ## 🚀 Getting started
 
 1. Download and extract the **complete Rektflix ZIP**. Do **not** run it from inside the ZIP. 📦
@@ -98,3 +95,6 @@ Rektflix is designed as a **gameplay recorder, companion addon, and disk-managem
 Share an individual `.mp4` to share a clip. To let somebody record their own gameplay, share the **complete Rektflix ZIP**.
 
 Windows may display an **unsigned-application warning** because this preview does **not** use a paid code-signing certificate. That warning alone does not mean the app is malicious
+
+> [!NOTE]
+> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested on WoW**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement. Feel free to leave a comment (under Issues) if you notice any bugs or have any feature requests.
