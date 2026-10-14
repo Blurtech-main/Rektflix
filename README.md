@@ -1,13 +1,13 @@
 # 🎬 Rektflix
 
-**Clip the chaos. Keep the receipts. Reclaim your disk space.** 🎮💾
+**'n kill(log). Clip the chaos. Keep the receipts. Reclaim your disk space.** 🎮💾
 
 Rektflix is a self-contained **Windows recorder and World of Warcraft Classic addon**. It continuously records the selected WoW window into a rolling buffer, so you can save recent gameplay or automatically capture selected events **without OBS**. That ridiculous moment from three minutes ago? It doesn't have to live only in your memory. 💀
 
 And it's not just a recorder: **Disk Space Clearer** is a substantial, built-in file-management feature for finding what's eating your storage and carefully moving it somewhere with more room. 🧹
 
 > [!NOTE]
-> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested end-to-end on WoW Forever Beta**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement (or most embarrassing death).
+> **🧪 WoW Forever Beta compatibility:** Rektflix **should work with WoW Forever Beta**, including the `_classic_beta_` setup using `WowB.exe`, but **it has not yet been tested end-to-end on WoW Forever Beta**. Make a test clip and verify automatic triggers before trusting it with your greatest gaming achievement.
 
 ## 🚀 Getting started
 
@@ -39,9 +39,7 @@ No OBS installation, account, cloud service, game injection, or automated keypre
 
 ## ![Disk Space Clearer — ROYGBIV heading](assets/disk-space-clearer-roygbiv.svg)
 
-**🧹 The other big feature. Not a tiny “clear cache” button wearing a superhero cape.**
-
-The optional **Disk Space Clearer** helps you figure out *where your storage went* and move large files or folders to a destination with more room. It is a proper, reviewable file-moving workflow—not a mystery cleanup button that starts deleting things while you aren't looking. 🕵️‍♂️
+The optional **Disk Space Clearer** helps you figure out *where your storage went* and move large files or folders to a destination with more room. It is a proper, reviewable file-moving workflow🕵️‍♂️
 
 ### 🔍 Find the real space hogs
 
@@ -68,16 +66,11 @@ For **each file**, Rektflix follows a deliberate sequence:
 
 If a move is interrupted, it can be **resumed using its restoration manifest**. Because “power cut at 99%” should not be the final boss. ⚡
 
-> [!CAUTION]
-> Moving installed applications or Windows/system folders can still break software that depends on its original path. Keeping related files together reduces one risk, but **does not guarantee that an installed program will work after being moved**. Review your selections carefully.
-
 ---
 
-## 🛡️ Legitimate software, not a cheat wearing sunglasses 🕶️
+## 🛡️ Legitimate software 🕶️
 
 Rektflix is designed as a **gameplay recorder, companion addon, and disk-management utility**—**not** a bot, cheat, or anti-cheat bypass. It does **not** inject code into the WoW process or send automated keypresses. It does not require cracked game files or include game-code bypasses. Its purpose is to **record what happens**, not play the game for you.
-
-**About bans:** The software is designed to avoid gameplay manipulation, but **no third-party tool can honestly guarantee “100% unbannable” status**. Individual servers decide what tools and addons their rules allow. If you're unsure, check the WoW Forever server's policy before using it.
 
 ## 🔒 Files and privacy
 
@@ -100,4 +93,4 @@ Rektflix is designed as a **gameplay recorder, companion addon, and disk-managem
 
 Share an individual `.mp4` to share a clip. To let somebody record their own gameplay, share the **complete Rektflix ZIP**.
 
-Windows may display an **unsigned-application warning** because this preview does **not** use a paid code-signing certificate. That warning alone does not mean the app is malicious—but you should only run software from a source you trust. 🪟
+Windows may display an **unsigned-application warning** because this preview does **not** use a paid code-signing certificate. That warning alone does not mean the app is malicious
