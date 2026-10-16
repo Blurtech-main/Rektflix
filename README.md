@@ -6,6 +6,19 @@
 
 **Clip the chaos. Keep the kill-log. Reclaim your disk space.** 🎮💾
 
+## Authoritative Windows release
+
+The authoritative Windows download is [Rektflix-Windows.zip from the `Release` GitHub release](https://github.com/Blurtech-main/Rektflix/releases/download/Release/Rektflix-Windows.zip).
+
+- Release version: **v1.0.0** (tag `Release`, commit `2db8635`)
+- Package size: **6,481,578 bytes**
+- SHA-256: `a7eab5f9c62ee11c7005ff7224442900be08dacbda0b64a96a60f575052d35b1`
+- Included executable: `Rektflix.exe` **0.1.3.0**, product version `0.1.3-forever-preview`
+
+The copy named `Rektflix-Windows.zip` in the repository is an older, incomplete 5,441,518-byte package and is not the supported download. It lacks the packaged Disk Space Clearer artwork and release logo asset. Verify the downloaded ZIP before extracting it.
+
+## Getting started
+
 Rektflix is a self-contained **Windows recorder and World of Warcraft Classic / Forever Beta addon**. It continuously records the selected WoW window into a rolling buffer, so you can save recent gameplay or automatically capture selected events **without OBS**. That ridiculous moment from three minutes ago? It doesn't have to live only in your memory. 💀
 
 And it's not just a recorder: **Disk Space Clearer** is a substantial, built-in file-management feature for finding what's eating your storage and carefully moving it somewhere with more room. 🧹
@@ -100,3 +113,6 @@ Share an individual `.mp4` to share a clip. To let somebody record their own gam
 
 Windows may display an **unsigned-application warning** because this preview does **not** use a paid code-signing certificate. That warning alone does not mean the app is malicious
 
+## Testing status
+
+The Windows package and automated application tests have been inspected and qualified. That package inspection does not constitute live Windows end-to-end acceptance or in-game testing. WoW Forever Beta compatibility remains **untested on WoW**, including addon loading and automatic trigger behavior; make a test clip and verify those behaviors before relying on them.
