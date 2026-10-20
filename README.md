@@ -10,12 +10,12 @@
 
 The authoritative Windows download is [Rektflix-Windows.zip from the `Release` GitHub release](https://github.com/Blurtech-main/Rektflix/releases/download/Release/Rektflix-Windows.zip).
 
-- Release version: **v1.0.0** (tag `Release`, commit `2db8635`)
+- Release version: **v0.1.4** (rolling `Release` GitHub release)
 - Package size: **6,481,578 bytes**
 - SHA-256: `a7eab5f9c62ee11c7005ff7224442900be08dacbda0b64a96a60f575052d35b1`
-- Included executable: `Rektflix.exe` **0.1.3.0**, product version `0.1.3-forever-preview`
+- Included executable: `Rektflix.exe` **0.1.4.0**, product version `0.1.4-disk-space-clearer`
 
-The copy named `Rektflix-Windows.zip` in the repository is an older, incomplete 5,441,518-byte package and is not the supported download. It lacks the packaged Disk Space Clearer artwork and release logo asset. Verify the downloaded ZIP before extracting it.
+The copy named `Rektflix-Windows.zip` in the repository is the same complete package published on the rolling `Release` page. Verify its SHA-256 before extracting it.
 
 ## Getting started
 
@@ -116,3 +116,16 @@ Windows may display an **unsigned-application warning** because this preview doe
 ## Testing status
 
 The Windows package and automated application tests have been inspected and qualified. That package inspection does not constitute live Windows end-to-end acceptance or in-game testing. WoW Forever Beta compatibility remains **untested on WoW**, including addon loading and automatic trigger behavior; make a test clip and verify those behaviors before relying on them.
+
+## 📝 Patch notes — 2026-10-21
+
+Since the previous published package, Rektflix has gained a full **Disk Space Clearer** workflow alongside its recorder and addon:
+
+- 🔎 Scans a selected drive progressively and groups large files into understandable collections, with safe-root exclusions and no double-counting.
+- 📊 Keeps the largest 30 candidate collections current as the scan continues, while preserving your selections as later, larger results arrive.
+- 🟢 Makes that ongoing work obvious: a prominent banner directly above the results now says **“SEARCH IN PROGRESS — results are still populating”** and includes the moving activity bar. The banner disappears when the scan finishes, stops, or is cancelled.
+- 📁 Lets you inspect collections, select individual large files or whole folders, and open their original locations before moving anything.
+- 🛡️ Adds verified, interruption-aware moves: temporary copy, flush, SHA-256 verification, collision-safe final rename, then source deletion only after success. Interrupted moves can be resumed from their restoration manifest.
+- 🧪 Extends the automated suite with progressive-scan ordering, selection stability, unsafe-root protection, and move-safety coverage.
+
+The Windows application package is rebuilt from the included `Source` folder. Live WoW Forever addon loading and real gameplay-trigger acceptance still need in-game verification. 🏴‍☠️
