@@ -10,10 +10,10 @@
 
 The authoritative Windows download is [Rektflix-Windows.zip from the `Release` GitHub release](https://github.com/Blurtech-main/Rektflix/releases/download/Release/Rektflix-Windows.zip).
 
-- Release version: **v0.1.4** (rolling `Release` GitHub release)
-- Package size: **6,481,578 bytes**
-- SHA-256: `a7eab5f9c62ee11c7005ff7224442900be08dacbda0b64a96a60f575052d35b1`
+- Release version: **v0.1.4** (red-R icon refresh; rolling `Release` GitHub release)
+- Package size and SHA-256: published alongside the rolling [Release asset](https://github.com/Blurtech-main/Rektflix/releases/tag/Release)
 - Included executable: `Rektflix.exe` **0.1.4.0**, product version `0.1.4-disk-space-clearer`
+- Visual identity: professional red `R` on black for the EXE, title bars, taskbar, and tray.
 
 The copy named `Rektflix-Windows.zip` in the repository is the same complete package published on the rolling `Release` page. Verify its SHA-256 before extracting it.
 
