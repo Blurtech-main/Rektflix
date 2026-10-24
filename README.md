@@ -137,4 +137,4 @@ The rolling Windows package now strengthens interrupted Disk Space Clearer moves
 - 🧾 Records durable per-file move events so a restart can distinguish a verified copy from a still-pending source.
 - 🔁 Replays and trims incomplete event tails after a power loss, preserving safe resume behavior without duplicating verified files.
 - 🧭 Adds the `--resume-space` recovery entry point and keeps the in-app “Resume interrupted move…” flow available.
-- 🧪 The current space-recovery suite passes **41 tests**. The full harness reached **67 passing checks** before the native recording fixture was stopped by this host’s deliberate 1 GB free-space safety reserve; live WoW and native end-to-end acceptance remain unverified here.
+- 🧪 The current space-recovery suite passes **41 tests**, and the full packaged harness passes **71 checks**, including native recording, clip export, and crash recovery. Live WoW Forever gameplay and addon-trigger acceptance still need in-game verification.
