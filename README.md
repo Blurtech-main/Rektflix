@@ -129,3 +129,12 @@ Since the previous published package, Rektflix has gained a full **Disk Space Cl
 - 🧪 Extends the automated suite with progressive-scan ordering, selection stability, unsafe-root protection, and move-safety coverage.
 
 The Windows application package is rebuilt from the included `Source` folder. Live WoW Forever addon loading and real gameplay-trigger acceptance still need in-game verification. 🏴‍☠️
+
+## 📝 Patch notes — 2026-10-25
+
+The rolling Windows package now strengthens interrupted Disk Space Clearer moves:
+
+- 🧾 Records durable per-file move events so a restart can distinguish a verified copy from a still-pending source.
+- 🔁 Replays and trims incomplete event tails after a power loss, preserving safe resume behavior without duplicating verified files.
+- 🧭 Adds the `--resume-space` recovery entry point and keeps the in-app “Resume interrupted move…” flow available.
+- 🧪 The current space-recovery suite passes **41 tests**. The full harness reached **67 passing checks** before the native recording fixture was stopped by this host’s deliberate 1 GB free-space safety reserve; live WoW and native end-to-end acceptance remain unverified here.
